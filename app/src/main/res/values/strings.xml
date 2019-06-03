@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WeekendWeatherProject</string>
+    <string name="tv_clouds">Clouds</string>
+    <string name="txt_temperature">Temperature</string>
+    <string name="txt_zip_code">Zip Code</string>
+    <string name="tv_today">Today</string>
+    <string name="tv_time">Time</string>
+    <string name="tv_temp">temp</string>
+    <string name="cd_current_weather_img">current_weather_img</string>
+    <string name="enter_your_zipcode">Enter your Zipcode</string>
+    <string name="tv_units">Units</string>
+</resources>
